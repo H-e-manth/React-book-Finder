@@ -1,8 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-### deploy link: https://emmannweb.github.io/React-book-finder/                     
 
 In the project directory, you can run:
 
